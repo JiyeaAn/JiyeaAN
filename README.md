@@ -20,7 +20,7 @@
 <div align=center>
   
 ![trophy](https://github-profile-trophy.vercel.app/?username=JiyeaAn&show_icons=true)
-![JiyeaAn's github stats](https://github-readme-stats.vercel.app/api?username=JiyeaAn&show_icons=true)[![JiyeaAn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JiyeaAn&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/JiyeaAn)
+![JiyeaAn's github stats](https://github-readme-stats.vercel.app/api?username=JiyeaAn&show_icons=true)[![JiyeaAn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JiyeaAn&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=Demo)](https://github.com/JiyeaAn)
 
 </div>
   
