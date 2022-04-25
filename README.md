@@ -2,14 +2,9 @@
 
 #### 📫 Contact:  dkswldp95@gmail.com 
 
-#### 🌱 Education: 
-- bachelor's degree: Business Administration in Kookmin University (2014.03 - 2019. 02)
-- master's degree: Business IT in Kookmin University (2021.03 - 2023.02)
-#### 🔭 Work experience:  
-- LocknLock Co. (2019.04.10 - 2021.05.31)
 #### ✨ Skills: 
 - Programming: <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> 
-- Framework:  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+- Framework:  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"> 
 
 <!--
 **JiyeaAn/JiyeaAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,4 +19,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+#### 🌱 Education: 
+- bachelor's degree: Business Administration in Kookmin University (2014.03 - 2019. 02)
+- master's degree: Business IT in Kookmin University (2021.03 - 2023.02)
+#### 🔭 Work experience:  
+- LocknLock Co. (2019.04.10 - 2021.05.31)
 -->
