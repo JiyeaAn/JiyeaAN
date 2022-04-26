@@ -16,7 +16,7 @@
 
 </div>
   
-<div align=center><h3>  ⚡ Github activity </h3></div>
+<div align=center><h3>  ⚡ GitHub Analytics </h3></div>
 <div align=center>
   
 ![trophy](https://github-profile-trophy.vercel.app/?username=JiyeaAn&show_icons=true)
