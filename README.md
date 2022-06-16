@@ -7,7 +7,7 @@
 <div align=center><h3> 📫 Contact </h3></div>
 <div align=center> dkswldp95@gmail.com </div>
 
-<div align=center><h3> ✨ Skills </h3></div>
+<div align=center><h3> 📌 Skills </h3></div>
 <div align=center>
 
 <div align=center><h4> Programming </h4></div>
@@ -18,7 +18,7 @@
 
 </div>
   
-<div align=center><h3>  ⚡ GitHub Analytics </h3></div>
+<div align=center><h3>  🚀 GitHub Analytics </h3></div>
 <div align=center>
   
 ![trophy](https://github-profile-trophy.vercel.app/?username=JiyeaAn&show_icons=true)
